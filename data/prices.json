@@ -1,9 +1,187 @@
 {
   "app_id": 3678970,
-  "items": {},
-  "history": {},
-  "last_updated": null,
-  "last_updated_jst": null,
-  "fetch_count": 0,
-  "total_items": 0
+  "items": {
+    "Moonstone": {
+      "name": "Moonstone",
+      "hash_name": "Moonstone",
+      "sell_price": 916,
+      "sell_price_text": "$9.16",
+      "sell_listings": 14,
+      "last_updated": "2026-06-14T05:16:20.217803+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Moonstone"
+    },
+    "Dragonite Crystal": {
+      "name": "Dragonite Crystal",
+      "hash_name": "Dragonite Crystal",
+      "sell_price": 2212,
+      "sell_price_text": "$22.12",
+      "sell_listings": 6,
+      "last_updated": "2026-06-14T05:16:20.217803+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Dragonite%20Crystal"
+    },
+    "Crystal Quartz": {
+      "name": "Crystal Quartz",
+      "hash_name": "Crystal Quartz",
+      "sell_price": 717,
+      "sell_price_text": "$7.17",
+      "sell_listings": 9,
+      "last_updated": "2026-06-14T05:16:20.217803+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Crystal%20Quartz"
+    },
+    "Rune Tome (Beyond) A": {
+      "name": "Rune Tome (Beyond) A",
+      "hash_name": "Rune Tome (Beyond) A",
+      "sell_price": 186,
+      "sell_price_text": "$1.86",
+      "sell_listings": 24,
+      "last_updated": "2026-06-14T05:16:20.217803+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Rune%20Tome%20%28Beyond%29%20A"
+    },
+    "Rune Sword (Legendary) A": {
+      "name": "Rune Sword (Legendary) A",
+      "hash_name": "Rune Sword (Legendary) A",
+      "sell_price": 22264,
+      "sell_price_text": "$222.64",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T05:16:20.217803+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Rune%20Sword%20%28Legendary%29%20A"
+    },
+    "Obsidian Shard": {
+      "name": "Obsidian Shard",
+      "hash_name": "Obsidian Shard",
+      "sell_price": 10,
+      "sell_price_text": "$0.10",
+      "sell_listings": 6828,
+      "last_updated": "2026-06-14T05:16:20.217803+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Obsidian%20Shard"
+    },
+    "Chaos Shard": {
+      "name": "Chaos Shard",
+      "hash_name": "Chaos Shard",
+      "sell_price": 276,
+      "sell_price_text": "$2.76",
+      "sell_listings": 15,
+      "last_updated": "2026-06-14T05:16:20.217803+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Chaos%20Shard"
+    },
+    "Amber Gem": {
+      "name": "Amber Gem",
+      "hash_name": "Amber Gem",
+      "sell_price": 5,
+      "sell_price_text": "$0.05",
+      "sell_listings": 56801,
+      "last_updated": "2026-06-14T05:16:20.217803+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Amber%20Gem"
+    },
+    "Empire 50th Anniversary Coin": {
+      "name": "Empire 50th Anniversary Coin",
+      "hash_name": "Empire 50th Anniversary Coin",
+      "sell_price": 0,
+      "sell_price_text": "$0.00",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T05:16:20.217803+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Empire%2050th%20Anniversary%20Coin"
+    },
+    "Arcane Ore": {
+      "name": "Arcane Ore",
+      "hash_name": "Arcane Ore",
+      "sell_price": 1219,
+      "sell_price_text": "$12.19",
+      "sell_listings": 3,
+      "last_updated": "2026-06-14T05:16:20.217803+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Arcane%20Ore"
+    },
+    "Orichalcum Ore": {
+      "name": "Orichalcum Ore",
+      "hash_name": "Orichalcum Ore",
+      "sell_price": 721,
+      "sell_price_text": "$7.21",
+      "sell_listings": 7,
+      "last_updated": "2026-06-14T05:16:20.217803+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Orichalcum%20Ore"
+    }
+  },
+  "history": {
+    "Moonstone": [
+      {
+        "t": "2026-06-14T05:00:00Z",
+        "p": 916,
+        "l": 14
+      }
+    ],
+    "Dragonite Crystal": [
+      {
+        "t": "2026-06-14T05:00:00Z",
+        "p": 2212,
+        "l": 6
+      }
+    ],
+    "Crystal Quartz": [
+      {
+        "t": "2026-06-14T05:00:00Z",
+        "p": 717,
+        "l": 9
+      }
+    ],
+    "Rune Tome (Beyond) A": [
+      {
+        "t": "2026-06-14T05:00:00Z",
+        "p": 186,
+        "l": 24
+      }
+    ],
+    "Rune Sword (Legendary) A": [
+      {
+        "t": "2026-06-14T05:00:00Z",
+        "p": 22264,
+        "l": 1
+      }
+    ],
+    "Obsidian Shard": [
+      {
+        "t": "2026-06-14T05:00:00Z",
+        "p": 10,
+        "l": 6828
+      }
+    ],
+    "Chaos Shard": [
+      {
+        "t": "2026-06-14T05:00:00Z",
+        "p": 276,
+        "l": 15
+      }
+    ],
+    "Amber Gem": [
+      {
+        "t": "2026-06-14T05:00:00Z",
+        "p": 5,
+        "l": 56801
+      }
+    ],
+    "Empire 50th Anniversary Coin": [
+      {
+        "t": "2026-06-14T05:00:00Z",
+        "p": 0,
+        "l": 1
+      }
+    ],
+    "Arcane Ore": [
+      {
+        "t": "2026-06-14T05:00:00Z",
+        "p": 1219,
+        "l": 3
+      }
+    ],
+    "Orichalcum Ore": [
+      {
+        "t": "2026-06-14T05:00:00Z",
+        "p": 721,
+        "l": 7
+      }
+    ]
+  },
+  "last_updated": "2026-06-14T05:16:20.217803+00:00",
+  "last_updated_jst": "2026-06-14 14:16 JST",
+  "fetch_count": 1,
+  "total_items": 11
 }
