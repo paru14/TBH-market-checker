@@ -42,18 +42,122 @@ TRACKED_ITEMS = [
 ]
 
 SEARCH_QUERIES = [
-    "Soul Stone",
-    "Night Boot",
+    # --- Crafting Materials (wiki確認済み全素材) ---
+    "Wood",
+    "Stone",
+    "Leather",
+    "Copper Nugget",
+    "Bronze Ingot",
+    "Iron Ingot",
+    "Silver Ingot",
+    "Gold Ingot",
+    "Stardust Ingot",
+    "Void Iron",
+    "Bloodstone",
+    "Thunderstone",
+    "Chaos Shard",
+    "Arcane Ore",
+    "Darksteel Ingot",
+    "Orichalcum Ore",
     "Moonstone",
-    "Crystal",
-    "Rune",
-    "Essence",
-    "Shard",
-    "Core",
-    "Fragment",
-    "Gem",
-    "Coin",
-    "Ore",
+    "Sunstone",
+    "Mithril Ore",
+    "Ethereal Ingot",
+    "Adamantium Ore",
+    "Aeon Ingot",
+    # --- Decoration (宝石類) ---
+    "Minor Ruby",
+    "Minor Sapphire",
+    "Minor Topaz",
+    "Minor Emerald",
+    "Minor Amethyst",
+    "Obsidian Shard",
+    "Coral Piece",
+    "Jade Stone",
+    "Amber Gem",
+    "Ruby",
+    "Sapphire",
+    "Topaz",
+    "Emerald",
+    "Amethyst",
+    "Crystal Quartz",
+    "Pearl",
+    "Turquoise",
+    "Garnet",
+    "Diamond",
+    "Opal",
+    "Lapis Lazuli",
+    "Black Pearl",
+    "Arcane Crystal",
+    "Mystic Topaz",
+    "Enchanted Ruby",
+    "Starlight Sapphire",
+    "Void Opal",
+    "Astral Diamond",
+    "Phantom Emerald",
+    "Twilight Amethyst",
+    "Celestial Pearl",
+    "Dragonite Crystal",
+    "Void Crystal",
+    "Abyssal Pearl",
+    "Ethereal Gem",
+    "Chaos Diamond",
+    # --- Engraving (モンスタードロップ素材) ---
+    "Goblin Hide",
+    "Skeleton Bone",
+    "Slime Jelly",
+    "Wolf Fang",
+    "Spider Silk",
+    "Poisonous Herb",
+    "Healing Herb",
+    "Bat Wing Membrane",
+    "Ogre Blood",
+    "Mushroom Spore",
+    "Ancient Tree Sap",
+    "Skull",
+    "Harpy Feather",
+    "Mandrake Root",
+    "Nightshade Extract",
+    "Basilisk Scale",
+    "Wyvern Claw",
+    "Dice",
+    "Demon Blood",
+    "Minotaur Horn",
+    "Griffin Beak",
+    "Phoenix Ash",
+    "Dragon Bile",
+    "Wraith Essence",
+    "Kraken Ink",
+    "Titan Marrow",
+    "Void Ichor",
+    "Abyssal Mucus",
+    "Chaos Spore",
+    "Primordial Sap",
+    "Eldritch Venom",
+    "Chaso Dice",
+    "Void Tendril",
+    # --- Inscription Scrolls ---
+    "Scroll of Common Inscription",
+    "Scroll of Uncommon Inscription",
+    "Scroll of Rare Inscription",
+    "Scroll of Legendary Inscription",
+    "Scroll of Immortal Inscription",
+    "Scroll of Arcana Inscription",
+    "Scroll of Beyond Inscription",
+    # --- Soul Stones ---
+    "Soulstone - Normal",
+    "Soulstone - Nightmare",
+    "Soulstone - Hell",
+    "Soulstone - Torment",
+    # --- Offering Coins ---
+    "Kingdom 1st Anniversary Coin",
+    "Empire 1st Anniversary Coin",
+    "Kingdom 10th Anniversary Coin",
+    "Empire 10th Anniversary Coin",
+    "Kingdom 50th Anniversary Coin",
+    "Empire 50th Anniversary Coin",
+    "Kingdom 100th Anniversary Coin",
+    "Empire 100th Anniversary Coin",
 ]
 
 
@@ -134,11 +238,10 @@ def main():
     seen_hashes: set[str] = set()
     new_items: list[dict] = []
 
-    # Search for items
+    # Search for items — exact name lookup (count=5 で十分)
     for query in SEARCH_QUERIES:
-        print(f"\nSearching: '{query}'")
-        results = fetch_search(query, count=15)
-        print(f"  Found {len(results)} results")
+        print(f"Searching: '{query}'")
+        results = fetch_search(query, count=5)
 
         for r in results:
             hash_name = r.get("hash_name", "")
@@ -153,7 +256,7 @@ def main():
                 "sell_listings": r.get("sell_listings", 0),
             })
 
-        time.sleep(1.5)  # Respect Steam rate limits
+        time.sleep(2.0)  # Respect Steam rate limits (longer for large list)
 
     print(f"\nTotal unique items found: {len(new_items)}")
 
