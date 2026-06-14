@@ -42,6 +42,106 @@ TRACKED_ITEMS = [
 ]
 
 SEARCH_QUERIES = [
+    # --- Weapons (Sword) ---
+    "Long Sword",
+    "Cutlas",
+    "Rapier",
+    "Bastard Sword",
+    "Great Sword",
+    "Knight Sword",
+    "Rune Sword",
+    "Fate Sword",
+    "Vengeance Sword",
+    "Dimensional Sword",
+    "Radiant Sword",
+    # --- Weapons (Bow) ---
+    "Short Bow",
+    "Hunting Bow",
+    "Long Bow",
+    "Composite Bow",
+    "War Bow",
+    "Battle Bow",
+    "Master Bow",
+    "Arcane Bow",
+    "Void Bow",
+    "Celestial Bow",
+    # --- Weapons (Staff) ---
+    "Wooden Staff",
+    "Magic Staff",
+    "Battle Staff",
+    "Wizard Staff",
+    "Elder Staff",
+    "Arcane Staff",
+    "Void Staff",
+    "Dimensional Staff",
+    # --- Weapons (Scepter) ---
+    "Scepter",
+    "Royal Scepter",
+    "Magic Scepter",
+    "Arcane Scepter",
+    "Void Scepter",
+    # --- Weapons (Crossbow) ---
+    "Crossbow",
+    "Heavy Crossbow",
+    "Battle Crossbow",
+    "Arcane Crossbow",
+    # --- Weapons (Axe) ---
+    "Hand Axe",
+    "Battle Axe",
+    "Great Axe",
+    "War Axe",
+    "Void Axe",
+    # --- Off-hand ---
+    "Wooden Shield",
+    "Iron Shield",
+    "Tower Shield",
+    "Knight Shield",
+    "Battle Shield",
+    "Arcane Shield",
+    "Void Shield",
+    "Dimensional Shield",
+    "Arrow",
+    "Bolt",
+    "Magic Orb",
+    "Tome",
+    "Hatchet",
+    # --- Helmet ---
+    "Leather Helmet",
+    "Iron Helmet",
+    "Knight Helmet",
+    "Battle Helmet",
+    "Arcane Helmet",
+    "Void Helmet",
+    "Dimensional Helmet",
+    # --- Armor ---
+    "Leather Armor",
+    "Iron Armor",
+    "Knight Armor",
+    "Battle Armor",
+    "Arcane Armor",
+    "Void Armor",
+    "Dimensional Armor",
+    # --- Gloves ---
+    "Leather Gloves",
+    "Iron Gloves",
+    "Knight Gloves",
+    "Battle Gloves",
+    "Arcane Gloves",
+    "Void Gloves",
+    # --- Boots ---
+    "Leather Boots",
+    "Iron Boots",
+    "Knight Boots",
+    "Battle Boots",
+    "Arcane Boots",
+    "Void Boots",
+    "Dimensional Boots",
+    # --- Accessories ---
+    "Amulet",
+    "Ring",
+    "Earring",
+    "Bracer",
+    # --- Crafting Materials ---
     # --- Crafting Materials (wiki確認済み全素材) ---
     "Wood",
     "Stone",
@@ -238,10 +338,12 @@ def main():
     seen_hashes: set[str] = set()
     new_items: list[dict] = []
 
-    # Search for items — exact name lookup (count=5 で十分)
+    # count=100 でレアリティ違いを全部拾う
+    # hash_name例: "Long Bow (Immortal) B", "Iron Gloves (Immortal)"
     for query in SEARCH_QUERIES:
         print(f"Searching: '{query}'")
-        results = fetch_search(query, count=5)
+        results = fetch_search(query, count=100)
+        added = 0
 
         for r in results:
             hash_name = r.get("hash_name", "")
@@ -255,8 +357,10 @@ def main():
                 "sell_price_text": r.get("sell_price_text", ""),
                 "sell_listings": r.get("sell_listings", 0),
             })
+            added += 1
 
-        time.sleep(2.0)  # Respect Steam rate limits (longer for large list)
+        print(f"  -> {added} items added")
+        time.sleep(2.5)  # Respect Steam rate limits
 
     print(f"\nTotal unique items found: {len(new_items)}")
 
