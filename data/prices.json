@@ -7,7 +7,7 @@
       "sell_price": 916,
       "sell_price_text": "$9.16",
       "sell_listings": 14,
-      "last_updated": "2026-06-14T17:18:47.909714+00:00",
+      "last_updated": "2026-06-14T19:23:33.106313+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Moonstone"
     },
     "Dragonite Crystal": {
@@ -16,7 +16,7 @@
       "sell_price": 2212,
       "sell_price_text": "$22.12",
       "sell_listings": 6,
-      "last_updated": "2026-06-14T17:18:47.909714+00:00",
+      "last_updated": "2026-06-14T19:23:33.106313+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dragonite%20Crystal"
     },
     "Crystal Quartz": {
@@ -24,8 +24,8 @@
       "hash_name": "Crystal Quartz",
       "sell_price": 733,
       "sell_price_text": "$7.33",
-      "sell_listings": 6,
-      "last_updated": "2026-06-14T17:18:47.909714+00:00",
+      "sell_listings": 5,
+      "last_updated": "2026-06-14T19:23:33.106313+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Crystal%20Quartz"
     },
     "Rune Tome (Beyond) A": {
@@ -34,7 +34,7 @@
       "sell_price": 186,
       "sell_price_text": "$1.86",
       "sell_listings": 24,
-      "last_updated": "2026-06-14T17:18:47.909714+00:00",
+      "last_updated": "2026-06-14T19:23:33.106313+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Rune%20Tome%20%28Beyond%29%20A"
     },
     "Rune Sword (Legendary) A": {
@@ -43,7 +43,7 @@
       "sell_price": 22264,
       "sell_price_text": "$222.64",
       "sell_listings": 1,
-      "last_updated": "2026-06-14T17:18:47.909714+00:00",
+      "last_updated": "2026-06-14T19:23:33.106313+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Rune%20Sword%20%28Legendary%29%20A"
     },
     "Obsidian Shard": {
@@ -51,17 +51,17 @@
       "hash_name": "Obsidian Shard",
       "sell_price": 11,
       "sell_price_text": "$0.11",
-      "sell_listings": 3570,
-      "last_updated": "2026-06-14T17:18:47.909714+00:00",
+      "sell_listings": 3051,
+      "last_updated": "2026-06-14T19:23:33.106313+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Obsidian%20Shard"
     },
     "Chaos Shard": {
       "name": "Chaos Shard",
       "hash_name": "Chaos Shard",
-      "sell_price": 293,
-      "sell_price_text": "$2.93",
-      "sell_listings": 11,
-      "last_updated": "2026-06-14T17:18:47.909714+00:00",
+      "sell_price": 300,
+      "sell_price_text": "$3.00",
+      "sell_listings": 10,
+      "last_updated": "2026-06-14T19:23:33.106313+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Chaos%20Shard"
     },
     "Amber Gem": {
@@ -69,8 +69,8 @@
       "hash_name": "Amber Gem",
       "sell_price": 5,
       "sell_price_text": "$0.05",
-      "sell_listings": 49676,
-      "last_updated": "2026-06-14T17:18:47.909714+00:00",
+      "sell_listings": 48559,
+      "last_updated": "2026-06-14T19:23:33.106313+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Amber%20Gem"
     },
     "Empire 50th Anniversary Coin": {
@@ -79,7 +79,7 @@
       "sell_price": 0,
       "sell_price_text": "$0.00",
       "sell_listings": 1,
-      "last_updated": "2026-06-14T17:18:47.909714+00:00",
+      "last_updated": "2026-06-14T19:23:33.106313+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Empire%2050th%20Anniversary%20Coin"
     },
     "Arcane Ore": {
@@ -88,7 +88,7 @@
       "sell_price": 1219,
       "sell_price_text": "$12.19",
       "sell_listings": 3,
-      "last_updated": "2026-06-14T17:18:47.909714+00:00",
+      "last_updated": "2026-06-14T19:23:33.106313+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Arcane%20Ore"
     },
     "Orichalcum Ore": {
@@ -97,7 +97,7 @@
       "sell_price": 721,
       "sell_price_text": "$7.21",
       "sell_listings": 7,
-      "last_updated": "2026-06-14T17:18:47.909714+00:00",
+      "last_updated": "2026-06-14T19:23:33.106313+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Orichalcum%20Ore"
     }
   },
@@ -132,6 +132,11 @@
         "t": "2026-06-14T17:00:00Z",
         "p": 916,
         "l": 14
+      },
+      {
+        "t": "2026-06-14T19:00:00Z",
+        "p": 916,
+        "l": 14
       }
     ],
     "Dragonite Crystal": [
@@ -162,6 +167,11 @@
       },
       {
         "t": "2026-06-14T17:00:00Z",
+        "p": 2212,
+        "l": 6
+      },
+      {
+        "t": "2026-06-14T19:00:00Z",
         "p": 2212,
         "l": 6
       }
@@ -196,6 +206,11 @@
         "t": "2026-06-14T17:00:00Z",
         "p": 733,
         "l": 6
+      },
+      {
+        "t": "2026-06-14T19:00:00Z",
+        "p": 733,
+        "l": 5
       }
     ],
     "Rune Tome (Beyond) A": [
@@ -226,6 +241,11 @@
       },
       {
         "t": "2026-06-14T17:00:00Z",
+        "p": 186,
+        "l": 24
+      },
+      {
+        "t": "2026-06-14T19:00:00Z",
         "p": 186,
         "l": 24
       }
@@ -260,6 +280,11 @@
         "t": "2026-06-14T17:00:00Z",
         "p": 22264,
         "l": 1
+      },
+      {
+        "t": "2026-06-14T19:00:00Z",
+        "p": 22264,
+        "l": 1
       }
     ],
     "Obsidian Shard": [
@@ -292,6 +317,11 @@
         "t": "2026-06-14T17:00:00Z",
         "p": 11,
         "l": 3570
+      },
+      {
+        "t": "2026-06-14T19:00:00Z",
+        "p": 11,
+        "l": 3051
       }
     ],
     "Chaos Shard": [
@@ -324,6 +354,11 @@
         "t": "2026-06-14T17:00:00Z",
         "p": 293,
         "l": 11
+      },
+      {
+        "t": "2026-06-14T19:00:00Z",
+        "p": 300,
+        "l": 10
       }
     ],
     "Amber Gem": [
@@ -356,6 +391,11 @@
         "t": "2026-06-14T17:00:00Z",
         "p": 5,
         "l": 49676
+      },
+      {
+        "t": "2026-06-14T19:00:00Z",
+        "p": 5,
+        "l": 48559
       }
     ],
     "Empire 50th Anniversary Coin": [
@@ -386,6 +426,11 @@
       },
       {
         "t": "2026-06-14T17:00:00Z",
+        "p": 0,
+        "l": 1
+      },
+      {
+        "t": "2026-06-14T19:00:00Z",
         "p": 0,
         "l": 1
       }
@@ -420,6 +465,11 @@
         "t": "2026-06-14T17:00:00Z",
         "p": 1219,
         "l": 3
+      },
+      {
+        "t": "2026-06-14T19:00:00Z",
+        "p": 1219,
+        "l": 3
       }
     ],
     "Orichalcum Ore": [
@@ -452,11 +502,16 @@
         "t": "2026-06-14T17:00:00Z",
         "p": 721,
         "l": 7
+      },
+      {
+        "t": "2026-06-14T19:00:00Z",
+        "p": 721,
+        "l": 7
       }
     ]
   },
-  "last_updated": "2026-06-14T17:18:47.909714+00:00",
-  "last_updated_jst": "2026-06-15 02:18 JST",
-  "fetch_count": 6,
+  "last_updated": "2026-06-14T19:23:33.106313+00:00",
+  "last_updated_jst": "2026-06-15 04:23 JST",
+  "fetch_count": 7,
   "total_items": 11
 }
