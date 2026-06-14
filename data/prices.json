@@ -7,7 +7,7 @@
       "sell_price": 916,
       "sell_price_text": "$9.16",
       "sell_listings": 14,
-      "last_updated": "2026-06-14T23:07:14.622726+00:00",
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Moonstone"
     },
     "Dragonite Crystal": {
@@ -16,7 +16,7 @@
       "sell_price": 2212,
       "sell_price_text": "$22.12",
       "sell_listings": 6,
-      "last_updated": "2026-06-14T23:07:14.622726+00:00",
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dragonite%20Crystal"
     },
     "Crystal Quartz": {
@@ -25,7 +25,7 @@
       "sell_price": 733,
       "sell_price_text": "$7.33",
       "sell_listings": 5,
-      "last_updated": "2026-06-14T23:07:14.622726+00:00",
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Crystal%20Quartz"
     },
     "Rune Tome (Beyond) A": {
@@ -51,8 +51,8 @@
       "hash_name": "Obsidian Shard",
       "sell_price": 11,
       "sell_price_text": "$0.11",
-      "sell_listings": 2264,
-      "last_updated": "2026-06-14T23:07:14.622726+00:00",
+      "sell_listings": 2223,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Obsidian%20Shard"
     },
     "Chaos Shard": {
@@ -61,7 +61,7 @@
       "sell_price": 405,
       "sell_price_text": "$4.05",
       "sell_listings": 6,
-      "last_updated": "2026-06-14T23:07:14.622726+00:00",
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Chaos%20Shard"
     },
     "Amber Gem": {
@@ -69,8 +69,8 @@
       "hash_name": "Amber Gem",
       "sell_price": 5,
       "sell_price_text": "$0.05",
-      "sell_listings": 43098,
-      "last_updated": "2026-06-14T23:07:14.622726+00:00",
+      "sell_listings": 42988,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Amber%20Gem"
     },
     "Empire 50th Anniversary Coin": {
@@ -88,7 +88,7 @@
       "sell_price": 1219,
       "sell_price_text": "$12.19",
       "sell_listings": 2,
-      "last_updated": "2026-06-14T23:07:14.622726+00:00",
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Arcane%20Ore"
     },
     "Orichalcum Ore": {
@@ -97,8 +97,611 @@
       "sell_price": 721,
       "sell_price_text": "$7.21",
       "sell_listings": 5,
-      "last_updated": "2026-06-14T23:07:14.622726+00:00",
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Orichalcum%20Ore"
+    },
+    "Wood": {
+      "name": "Wood",
+      "hash_name": "Wood",
+      "sell_price": 4,
+      "sell_price_text": "$0.04",
+      "sell_listings": 308060,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Wood"
+    },
+    "Jade Stone": {
+      "name": "Jade Stone",
+      "hash_name": "Jade Stone",
+      "sell_price": 4,
+      "sell_price_text": "$0.04",
+      "sell_listings": 98495,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Jade%20Stone"
+    },
+    "Stone": {
+      "name": "Stone",
+      "hash_name": "Stone",
+      "sell_price": 903,
+      "sell_price_text": "$9.03",
+      "sell_listings": 11,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Stone"
+    },
+    "Leather": {
+      "name": "Leather",
+      "hash_name": "Leather",
+      "sell_price": 5,
+      "sell_price_text": "$0.05",
+      "sell_listings": 124141,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Leather"
+    },
+    "Leather Hatchet (Immortal) A": {
+      "name": "Leather Hatchet (Immortal) A",
+      "hash_name": "Leather Hatchet (Immortal) A",
+      "sell_price": 4017,
+      "sell_price_text": "$40.17",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Leather%20Hatchet%20%28Immortal%29%20A"
+    },
+    "Copper Nugget": {
+      "name": "Copper Nugget",
+      "hash_name": "Copper Nugget",
+      "sell_price": 7171,
+      "sell_price_text": "$71.71",
+      "sell_listings": 5,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Copper%20Nugget"
+    },
+    "Bronze Ingot": {
+      "name": "Bronze Ingot",
+      "hash_name": "Bronze Ingot",
+      "sell_price": 2224,
+      "sell_price_text": "$22.24",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Bronze%20Ingot"
+    },
+    "Iron Ingot": {
+      "name": "Iron Ingot",
+      "hash_name": "Iron Ingot",
+      "sell_price": 71415,
+      "sell_price_text": "$714.15",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Iron%20Ingot"
+    },
+    "Silver Ingot": {
+      "name": "Silver Ingot",
+      "hash_name": "Silver Ingot",
+      "sell_price": 2224,
+      "sell_price_text": "$22.24",
+      "sell_listings": 7,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Silver%20Ingot"
+    },
+    "Gold Ingot": {
+      "name": "Gold Ingot",
+      "hash_name": "Gold Ingot",
+      "sell_price": 1687,
+      "sell_price_text": "$16.87",
+      "sell_listings": 3,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Gold%20Ingot"
+    },
+    "Stardust Ingot": {
+      "name": "Stardust Ingot",
+      "hash_name": "Stardust Ingot",
+      "sell_price": 8319,
+      "sell_price_text": "$83.19",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Stardust%20Ingot"
+    },
+    "Void Iron": {
+      "name": "Void Iron",
+      "hash_name": "Void Iron",
+      "sell_price": 2224,
+      "sell_price_text": "$22.24",
+      "sell_listings": 3,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Void%20Iron"
+    },
+    "Bloodstone": {
+      "name": "Bloodstone",
+      "hash_name": "Bloodstone",
+      "sell_price": 491,
+      "sell_price_text": "$4.91",
+      "sell_listings": 14,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Bloodstone"
+    },
+    "Thunderstone": {
+      "name": "Thunderstone",
+      "hash_name": "Thunderstone",
+      "sell_price": 1184,
+      "sell_price_text": "$11.84",
+      "sell_listings": 3,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Thunderstone"
+    },
+    "Darksteel Ingot": {
+      "name": "Darksteel Ingot",
+      "hash_name": "Darksteel Ingot",
+      "sell_price": 484,
+      "sell_price_text": "$4.84",
+      "sell_listings": 15,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Darksteel%20Ingot"
+    },
+    "Sunstone": {
+      "name": "Sunstone",
+      "hash_name": "Sunstone",
+      "sell_price": 1070,
+      "sell_price_text": "$10.70",
+      "sell_listings": 9,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Sunstone"
+    },
+    "Minor Ruby": {
+      "name": "Minor Ruby",
+      "hash_name": "Minor Ruby",
+      "sell_price": 580,
+      "sell_price_text": "$5.80",
+      "sell_listings": 14,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Minor%20Ruby"
+    },
+    "Minor Sapphire": {
+      "name": "Minor Sapphire",
+      "hash_name": "Minor Sapphire",
+      "sell_price": 4,
+      "sell_price_text": "$0.04",
+      "sell_listings": 165348,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Minor%20Sapphire"
+    },
+    "Minor Topaz": {
+      "name": "Minor Topaz",
+      "hash_name": "Minor Topaz",
+      "sell_price": 10,
+      "sell_price_text": "$0.10",
+      "sell_listings": 14557,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Minor%20Topaz"
+    },
+    "Minor Emerald": {
+      "name": "Minor Emerald",
+      "hash_name": "Minor Emerald",
+      "sell_price": 2224,
+      "sell_price_text": "$22.24",
+      "sell_listings": 2,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Minor%20Emerald"
+    },
+    "Minor Amethyst": {
+      "name": "Minor Amethyst",
+      "hash_name": "Minor Amethyst",
+      "sell_price": 4,
+      "sell_price_text": "$0.04",
+      "sell_listings": 112396,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Minor%20Amethyst"
+    },
+    "Coral Piece": {
+      "name": "Coral Piece",
+      "hash_name": "Coral Piece",
+      "sell_price": 25,
+      "sell_price_text": "$0.25",
+      "sell_listings": 315,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Coral%20Piece"
+    },
+    "Ruby Pendant (Arcana) A": {
+      "name": "Ruby Pendant (Arcana) A",
+      "hash_name": "Ruby Pendant (Arcana) A",
+      "sell_price": 41,
+      "sell_price_text": "$0.41",
+      "sell_listings": 24,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Ruby%20Pendant%20%28Arcana%29%20A"
+    },
+    "Ruby Pendant (Immortal) A": {
+      "name": "Ruby Pendant (Immortal) A",
+      "hash_name": "Ruby Pendant (Immortal) A",
+      "sell_price": 4,
+      "sell_price_text": "$0.04",
+      "sell_listings": 106,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Ruby%20Pendant%20%28Immortal%29%20A"
+    },
+    "Sapphire": {
+      "name": "Sapphire",
+      "hash_name": "Sapphire",
+      "sell_price": 98,
+      "sell_price_text": "$0.98",
+      "sell_listings": 99,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Sapphire"
+    },
+    "Starlight Sapphire": {
+      "name": "Starlight Sapphire",
+      "hash_name": "Starlight Sapphire",
+      "sell_price": 1533,
+      "sell_price_text": "$15.33",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Starlight%20Sapphire"
+    },
+    "Topaz": {
+      "name": "Topaz",
+      "hash_name": "Topaz",
+      "sell_price": 62,
+      "sell_price_text": "$0.62",
+      "sell_listings": 253,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Topaz"
+    },
+    "Emerald": {
+      "name": "Emerald",
+      "hash_name": "Emerald",
+      "sell_price": 19613,
+      "sell_price_text": "$196.13",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Emerald"
+    },
+    "Emerald Bracer (Beyond) A": {
+      "name": "Emerald Bracer (Beyond) A",
+      "hash_name": "Emerald Bracer (Beyond) A",
+      "sell_price": 3007,
+      "sell_price_text": "$30.07",
+      "sell_listings": 4,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Emerald%20Bracer%20%28Beyond%29%20A"
+    },
+    "Emerald Bracer (Arcana) A": {
+      "name": "Emerald Bracer (Arcana) A",
+      "hash_name": "Emerald Bracer (Arcana) A",
+      "sell_price": 238,
+      "sell_price_text": "$2.38",
+      "sell_listings": 16,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Emerald%20Bracer%20%28Arcana%29%20A"
+    },
+    "Emerald Earring (Beyond) A": {
+      "name": "Emerald Earring (Beyond) A",
+      "hash_name": "Emerald Earring (Beyond) A",
+      "sell_price": 7171,
+      "sell_price_text": "$71.71",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Emerald%20Earring%20%28Beyond%29%20A"
+    },
+    "Emerald Earring (Legendary) A": {
+      "name": "Emerald Earring (Legendary) A",
+      "hash_name": "Emerald Earring (Legendary) A",
+      "sell_price": 2757,
+      "sell_price_text": "$27.57",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Emerald%20Earring%20%28Legendary%29%20A"
+    },
+    "Amethyst": {
+      "name": "Amethyst",
+      "hash_name": "Amethyst",
+      "sell_price": 2777,
+      "sell_price_text": "$27.77",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Amethyst"
+    },
+    "Celestial Pearl": {
+      "name": "Celestial Pearl",
+      "hash_name": "Celestial Pearl",
+      "sell_price": 4327,
+      "sell_price_text": "$43.27",
+      "sell_listings": 18,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Celestial%20Pearl"
+    },
+    "Black Pearl": {
+      "name": "Black Pearl",
+      "hash_name": "Black Pearl",
+      "sell_price": 1670,
+      "sell_price_text": "$16.70",
+      "sell_listings": 4,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Black%20Pearl"
+    },
+    "Pearl": {
+      "name": "Pearl",
+      "hash_name": "Pearl",
+      "sell_price": 1400,
+      "sell_price_text": "$14.00",
+      "sell_listings": 5,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Pearl"
+    },
+    "Turquoise": {
+      "name": "Turquoise",
+      "hash_name": "Turquoise",
+      "sell_price": 749,
+      "sell_price_text": "$7.49",
+      "sell_listings": 5,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Turquoise"
+    },
+    "Garnet": {
+      "name": "Garnet",
+      "hash_name": "Garnet",
+      "sell_price": 2224,
+      "sell_price_text": "$22.24",
+      "sell_listings": 2,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Garnet"
+    },
+    "Diamond": {
+      "name": "Diamond",
+      "hash_name": "Diamond",
+      "sell_price": 3066,
+      "sell_price_text": "$30.66",
+      "sell_listings": 3,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Diamond"
+    },
+    "Void Opal": {
+      "name": "Void Opal",
+      "hash_name": "Void Opal",
+      "sell_price": 909,
+      "sell_price_text": "$9.09",
+      "sell_listings": 62,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Void%20Opal"
+    },
+    "Opal": {
+      "name": "Opal",
+      "hash_name": "Opal",
+      "sell_price": 4038,
+      "sell_price_text": "$40.38",
+      "sell_listings": 13,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Opal"
+    },
+    "Lapis Lazuli": {
+      "name": "Lapis Lazuli",
+      "hash_name": "Lapis Lazuli",
+      "sell_price": 6575,
+      "sell_price_text": "$65.75",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Lapis%20Lazuli"
+    },
+    "Goblin Hide": {
+      "name": "Goblin Hide",
+      "hash_name": "Goblin Hide",
+      "sell_price": 3,
+      "sell_price_text": "$0.03",
+      "sell_listings": 69755,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Goblin%20Hide"
+    },
+    "Skeleton Bone": {
+      "name": "Skeleton Bone",
+      "hash_name": "Skeleton Bone",
+      "sell_price": 3,
+      "sell_price_text": "$0.03",
+      "sell_listings": 94217,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Skeleton%20Bone"
+    },
+    "Slime Jelly": {
+      "name": "Slime Jelly",
+      "hash_name": "Slime Jelly",
+      "sell_price": 3,
+      "sell_price_text": "$0.03",
+      "sell_listings": 93144,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Slime%20Jelly"
+    },
+    "Wolf Fang": {
+      "name": "Wolf Fang",
+      "hash_name": "Wolf Fang",
+      "sell_price": 4,
+      "sell_price_text": "$0.04",
+      "sell_listings": 21873,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Wolf%20Fang"
+    },
+    "Spider Silk": {
+      "name": "Spider Silk",
+      "hash_name": "Spider Silk",
+      "sell_price": 669,
+      "sell_price_text": "$6.69",
+      "sell_listings": 3,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Spider%20Silk"
+    },
+    "Poisonous Herb": {
+      "name": "Poisonous Herb",
+      "hash_name": "Poisonous Herb",
+      "sell_price": 5,
+      "sell_price_text": "$0.05",
+      "sell_listings": 10149,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Poisonous%20Herb"
+    },
+    "Healing Herb": {
+      "name": "Healing Herb",
+      "hash_name": "Healing Herb",
+      "sell_price": 4,
+      "sell_price_text": "$0.04",
+      "sell_listings": 21300,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Healing%20Herb"
+    },
+    "Bat Wing Membrane": {
+      "name": "Bat Wing Membrane",
+      "hash_name": "Bat Wing Membrane",
+      "sell_price": 554,
+      "sell_price_text": "$5.54",
+      "sell_listings": 3,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Bat%20Wing%20Membrane"
+    },
+    "Ogre Blood": {
+      "name": "Ogre Blood",
+      "hash_name": "Ogre Blood",
+      "sell_price": 337,
+      "sell_price_text": "$3.37",
+      "sell_listings": 39,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Ogre%20Blood"
+    },
+    "Mushroom Spore": {
+      "name": "Mushroom Spore",
+      "hash_name": "Mushroom Spore",
+      "sell_price": 196,
+      "sell_price_text": "$1.96",
+      "sell_listings": 12,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Mushroom%20Spore"
+    },
+    "Ancient Tree Sap": {
+      "name": "Ancient Tree Sap",
+      "hash_name": "Ancient Tree Sap",
+      "sell_price": 203,
+      "sell_price_text": "$2.03",
+      "sell_listings": 13,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Ancient%20Tree%20Sap"
+    },
+    "Harpy Feather": {
+      "name": "Harpy Feather",
+      "hash_name": "Harpy Feather",
+      "sell_price": 1467,
+      "sell_price_text": "$14.67",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Harpy%20Feather"
+    },
+    "Basilisk Scale": {
+      "name": "Basilisk Scale",
+      "hash_name": "Basilisk Scale",
+      "sell_price": 9258,
+      "sell_price_text": "$92.58",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Basilisk%20Scale"
+    },
+    "Wyvern Claw": {
+      "name": "Wyvern Claw",
+      "hash_name": "Wyvern Claw",
+      "sell_price": 717,
+      "sell_price_text": "$7.17",
+      "sell_listings": 2,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Wyvern%20Claw"
+    },
+    "Dice": {
+      "name": "Dice",
+      "hash_name": "Dice",
+      "sell_price": 3585,
+      "sell_price_text": "$35.85",
+      "sell_listings": 2,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Dice"
+    },
+    "Griffin Beak": {
+      "name": "Griffin Beak",
+      "hash_name": "Griffin Beak",
+      "sell_price": 403,
+      "sell_price_text": "$4.03",
+      "sell_listings": 16,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Griffin%20Beak"
+    },
+    "Dragon Bile": {
+      "name": "Dragon Bile",
+      "hash_name": "Dragon Bile",
+      "sell_price": 2362,
+      "sell_price_text": "$23.62",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Dragon%20Bile"
+    },
+    "Void Ichor": {
+      "name": "Void Ichor",
+      "hash_name": "Void Ichor",
+      "sell_price": 1761,
+      "sell_price_text": "$17.61",
+      "sell_listings": 2,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Void%20Ichor"
+    },
+    "Abyssal Mucus": {
+      "name": "Abyssal Mucus",
+      "hash_name": "Abyssal Mucus",
+      "sell_price": 6681,
+      "sell_price_text": "$66.81",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Abyssal%20Mucus"
+    },
+    "Scroll of Beyond Inscription": {
+      "name": "Scroll of Beyond Inscription",
+      "hash_name": "Scroll of Beyond Inscription",
+      "sell_price": 348,
+      "sell_price_text": "$3.48",
+      "sell_listings": 17,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Scroll%20of%20Beyond%20Inscription"
+    },
+    "Scroll of Immortal Inscription": {
+      "name": "Scroll of Immortal Inscription",
+      "hash_name": "Scroll of Immortal Inscription",
+      "sell_price": 1995,
+      "sell_price_text": "$19.95",
+      "sell_listings": 2,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Scroll%20of%20Immortal%20Inscription"
+    },
+    "Scroll of Arcana Inscription": {
+      "name": "Scroll of Arcana Inscription",
+      "hash_name": "Scroll of Arcana Inscription",
+      "sell_price": 2370,
+      "sell_price_text": "$23.70",
+      "sell_listings": 2,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Scroll%20of%20Arcana%20Inscription"
+    },
+    "Scroll of Common Inscription": {
+      "name": "Scroll of Common Inscription",
+      "hash_name": "Scroll of Common Inscription",
+      "sell_price": 2224,
+      "sell_price_text": "$22.24",
+      "sell_listings": 1,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Scroll%20of%20Common%20Inscription"
+    },
+    "Soulstone - Normal": {
+      "name": "Soulstone - Normal",
+      "hash_name": "Soulstone - Normal",
+      "sell_price": 9,
+      "sell_price_text": "$0.09",
+      "sell_listings": 495,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Soulstone%20-%20Normal"
+    },
+    "Soulstone - Nightmare": {
+      "name": "Soulstone - Nightmare",
+      "hash_name": "Soulstone - Nightmare",
+      "sell_price": 2258,
+      "sell_price_text": "$22.58",
+      "sell_listings": 5,
+      "last_updated": "2026-06-14T23:17:39.894753+00:00",
+      "market_url": "https://steamcommunity.com/market/listings/3678970/Soulstone%20-%20Nightmare"
     }
   },
   "history": {
@@ -618,10 +1221,479 @@
         "p": 721,
         "l": 5
       }
+    ],
+    "Wood": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 4,
+        "l": 308060
+      }
+    ],
+    "Jade Stone": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 4,
+        "l": 98495
+      }
+    ],
+    "Stone": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 903,
+        "l": 11
+      }
+    ],
+    "Leather": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 5,
+        "l": 124141
+      }
+    ],
+    "Leather Hatchet (Immortal) A": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 4017,
+        "l": 1
+      }
+    ],
+    "Copper Nugget": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 7171,
+        "l": 5
+      }
+    ],
+    "Bronze Ingot": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 2224,
+        "l": 1
+      }
+    ],
+    "Iron Ingot": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 71415,
+        "l": 1
+      }
+    ],
+    "Silver Ingot": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 2224,
+        "l": 7
+      }
+    ],
+    "Gold Ingot": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 1687,
+        "l": 3
+      }
+    ],
+    "Stardust Ingot": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 8319,
+        "l": 1
+      }
+    ],
+    "Void Iron": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 2224,
+        "l": 3
+      }
+    ],
+    "Bloodstone": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 491,
+        "l": 14
+      }
+    ],
+    "Thunderstone": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 1184,
+        "l": 3
+      }
+    ],
+    "Darksteel Ingot": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 484,
+        "l": 15
+      }
+    ],
+    "Sunstone": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 1070,
+        "l": 9
+      }
+    ],
+    "Minor Ruby": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 580,
+        "l": 14
+      }
+    ],
+    "Minor Sapphire": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 4,
+        "l": 165348
+      }
+    ],
+    "Minor Topaz": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 10,
+        "l": 14557
+      }
+    ],
+    "Minor Emerald": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 2224,
+        "l": 2
+      }
+    ],
+    "Minor Amethyst": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 4,
+        "l": 112396
+      }
+    ],
+    "Coral Piece": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 25,
+        "l": 315
+      }
+    ],
+    "Ruby Pendant (Arcana) A": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 41,
+        "l": 24
+      }
+    ],
+    "Ruby Pendant (Immortal) A": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 4,
+        "l": 106
+      }
+    ],
+    "Sapphire": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 98,
+        "l": 99
+      }
+    ],
+    "Starlight Sapphire": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 1533,
+        "l": 1
+      }
+    ],
+    "Topaz": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 62,
+        "l": 253
+      }
+    ],
+    "Emerald": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 19613,
+        "l": 1
+      }
+    ],
+    "Emerald Bracer (Beyond) A": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 3007,
+        "l": 4
+      }
+    ],
+    "Emerald Bracer (Arcana) A": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 238,
+        "l": 16
+      }
+    ],
+    "Emerald Earring (Beyond) A": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 7171,
+        "l": 1
+      }
+    ],
+    "Emerald Earring (Legendary) A": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 2757,
+        "l": 1
+      }
+    ],
+    "Amethyst": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 2777,
+        "l": 1
+      }
+    ],
+    "Celestial Pearl": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 4327,
+        "l": 18
+      }
+    ],
+    "Black Pearl": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 1670,
+        "l": 4
+      }
+    ],
+    "Pearl": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 1400,
+        "l": 5
+      }
+    ],
+    "Turquoise": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 749,
+        "l": 5
+      }
+    ],
+    "Garnet": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 2224,
+        "l": 2
+      }
+    ],
+    "Diamond": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 3066,
+        "l": 3
+      }
+    ],
+    "Void Opal": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 909,
+        "l": 62
+      }
+    ],
+    "Opal": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 4038,
+        "l": 13
+      }
+    ],
+    "Lapis Lazuli": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 6575,
+        "l": 1
+      }
+    ],
+    "Goblin Hide": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 3,
+        "l": 69755
+      }
+    ],
+    "Skeleton Bone": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 3,
+        "l": 94217
+      }
+    ],
+    "Slime Jelly": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 3,
+        "l": 93144
+      }
+    ],
+    "Wolf Fang": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 4,
+        "l": 21873
+      }
+    ],
+    "Spider Silk": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 669,
+        "l": 3
+      }
+    ],
+    "Poisonous Herb": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 5,
+        "l": 10149
+      }
+    ],
+    "Healing Herb": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 4,
+        "l": 21300
+      }
+    ],
+    "Bat Wing Membrane": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 554,
+        "l": 3
+      }
+    ],
+    "Ogre Blood": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 337,
+        "l": 39
+      }
+    ],
+    "Mushroom Spore": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 196,
+        "l": 12
+      }
+    ],
+    "Ancient Tree Sap": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 203,
+        "l": 13
+      }
+    ],
+    "Harpy Feather": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 1467,
+        "l": 1
+      }
+    ],
+    "Basilisk Scale": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 9258,
+        "l": 1
+      }
+    ],
+    "Wyvern Claw": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 717,
+        "l": 2
+      }
+    ],
+    "Dice": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 3585,
+        "l": 2
+      }
+    ],
+    "Griffin Beak": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 403,
+        "l": 16
+      }
+    ],
+    "Dragon Bile": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 2362,
+        "l": 1
+      }
+    ],
+    "Void Ichor": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 1761,
+        "l": 2
+      }
+    ],
+    "Abyssal Mucus": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 6681,
+        "l": 1
+      }
+    ],
+    "Scroll of Beyond Inscription": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 348,
+        "l": 17
+      }
+    ],
+    "Scroll of Immortal Inscription": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 1995,
+        "l": 2
+      }
+    ],
+    "Scroll of Arcana Inscription": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 2370,
+        "l": 2
+      }
+    ],
+    "Scroll of Common Inscription": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 2224,
+        "l": 1
+      }
+    ],
+    "Soulstone - Normal": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 9,
+        "l": 495
+      }
+    ],
+    "Soulstone - Nightmare": [
+      {
+        "t": "2026-06-14T23:00:00Z",
+        "p": 2258,
+        "l": 5
+      }
     ]
   },
-  "last_updated": "2026-06-14T23:07:14.622726+00:00",
-  "last_updated_jst": "2026-06-15 08:07 JST",
-  "fetch_count": 9,
-  "total_items": 11
+  "last_updated": "2026-06-14T23:17:39.894753+00:00",
+  "last_updated_jst": "2026-06-15 08:17 JST",
+  "fetch_count": 10,
+  "total_items": 78
 }
