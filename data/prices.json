@@ -16,7 +16,7 @@
       "sell_price": 2212,
       "sell_price_text": "$22.12",
       "sell_listings": 6,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dragonite%20Crystal"
     },
     "Crystal Quartz": {
@@ -25,7 +25,7 @@
       "sell_price": 733,
       "sell_price_text": "$7.33",
       "sell_listings": 5,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Crystal%20Quartz"
     },
     "Rune Tome (Beyond) A": {
@@ -34,7 +34,7 @@
       "sell_price": 186,
       "sell_price_text": "$1.86",
       "sell_listings": 24,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Rune%20Tome%20%28Beyond%29%20A"
     },
     "Rune Sword (Legendary) A": {
@@ -43,7 +43,7 @@
       "sell_price": 22264,
       "sell_price_text": "$222.64",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Rune%20Sword%20%28Legendary%29%20A"
     },
     "Obsidian Shard": {
@@ -58,10 +58,10 @@
     "Chaos Shard": {
       "name": "Chaos Shard",
       "hash_name": "Chaos Shard",
-      "sell_price": 405,
-      "sell_price_text": "$4.05",
-      "sell_listings": 6,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_price": 451,
+      "sell_price_text": "$4.51",
+      "sell_listings": 5,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Chaos%20Shard"
     },
     "Amber Gem": {
@@ -69,8 +69,8 @@
       "hash_name": "Amber Gem",
       "sell_price": 5,
       "sell_price_text": "$0.05",
-      "sell_listings": 42537,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 40380,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Amber%20Gem"
     },
     "Empire 50th Anniversary Coin": {
@@ -79,7 +79,7 @@
       "sell_price": 0,
       "sell_price_text": "$0.00",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Empire%2050th%20Anniversary%20Coin"
     },
     "Arcane Ore": {
@@ -105,8 +105,8 @@
       "hash_name": "Wood",
       "sell_price": 4,
       "sell_price_text": "$0.04",
-      "sell_listings": 305278,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 291156,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Wood"
     },
     "Jade Stone": {
@@ -114,8 +114,8 @@
       "hash_name": "Jade Stone",
       "sell_price": 4,
       "sell_price_text": "$0.04",
-      "sell_listings": 97983,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 95430,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Jade%20Stone"
     },
     "Stone": {
@@ -124,7 +124,7 @@
       "sell_price": 903,
       "sell_price_text": "$9.03",
       "sell_listings": 11,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Stone"
     },
     "Leather": {
@@ -132,8 +132,8 @@
       "hash_name": "Leather",
       "sell_price": 5,
       "sell_price_text": "$0.05",
-      "sell_listings": 122991,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 112731,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Leather"
     },
     "Leather Hatchet (Immortal) A": {
@@ -142,7 +142,7 @@
       "sell_price": 4017,
       "sell_price_text": "$40.17",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Leather%20Hatchet%20%28Immortal%29%20A"
     },
     "Copper Nugget": {
@@ -151,7 +151,7 @@
       "sell_price": 7171,
       "sell_price_text": "$71.71",
       "sell_listings": 5,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Copper%20Nugget"
     },
     "Bronze Ingot": {
@@ -160,7 +160,7 @@
       "sell_price": 2224,
       "sell_price_text": "$22.24",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Bronze%20Ingot"
     },
     "Iron Ingot": {
@@ -169,7 +169,7 @@
       "sell_price": 71415,
       "sell_price_text": "$714.15",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Iron%20Ingot"
     },
     "Silver Ingot": {
@@ -178,7 +178,7 @@
       "sell_price": 2224,
       "sell_price_text": "$22.24",
       "sell_listings": 7,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Silver%20Ingot"
     },
     "Gold Ingot": {
@@ -187,7 +187,7 @@
       "sell_price": 1687,
       "sell_price_text": "$16.87",
       "sell_listings": 3,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Gold%20Ingot"
     },
     "Stardust Ingot": {
@@ -196,7 +196,7 @@
       "sell_price": 8319,
       "sell_price_text": "$83.19",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Stardust%20Ingot"
     },
     "Void Iron": {
@@ -205,7 +205,7 @@
       "sell_price": 2224,
       "sell_price_text": "$22.24",
       "sell_listings": 3,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Void%20Iron"
     },
     "Bloodstone": {
@@ -214,7 +214,7 @@
       "sell_price": 491,
       "sell_price_text": "$4.91",
       "sell_listings": 14,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Bloodstone"
     },
     "Thunderstone": {
@@ -223,7 +223,7 @@
       "sell_price": 1184,
       "sell_price_text": "$11.84",
       "sell_listings": 3,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Thunderstone"
     },
     "Darksteel Ingot": {
@@ -247,10 +247,10 @@
     "Minor Ruby": {
       "name": "Minor Ruby",
       "hash_name": "Minor Ruby",
-      "sell_price": 580,
-      "sell_price_text": "$5.80",
-      "sell_listings": 11,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_price": 632,
+      "sell_price_text": "$6.32",
+      "sell_listings": 8,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Minor%20Ruby"
     },
     "Minor Sapphire": {
@@ -258,8 +258,8 @@
       "hash_name": "Minor Sapphire",
       "sell_price": 4,
       "sell_price_text": "$0.04",
-      "sell_listings": 165186,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 164084,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Minor%20Sapphire"
     },
     "Minor Topaz": {
@@ -267,8 +267,8 @@
       "hash_name": "Minor Topaz",
       "sell_price": 10,
       "sell_price_text": "$0.10",
-      "sell_listings": 14425,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 13582,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Minor%20Topaz"
     },
     "Minor Emerald": {
@@ -277,7 +277,7 @@
       "sell_price": 2224,
       "sell_price_text": "$22.24",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Minor%20Emerald"
     },
     "Minor Amethyst": {
@@ -285,17 +285,17 @@
       "hash_name": "Minor Amethyst",
       "sell_price": 4,
       "sell_price_text": "$0.04",
-      "sell_listings": 111886,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 109135,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Minor%20Amethyst"
     },
     "Coral Piece": {
       "name": "Coral Piece",
       "hash_name": "Coral Piece",
-      "sell_price": 31,
-      "sell_price_text": "$0.31",
-      "sell_listings": 227,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_price": 116,
+      "sell_price_text": "$1.16",
+      "sell_listings": 53,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Coral%20Piece"
     },
     "Ruby Pendant (Arcana) A": {
@@ -304,7 +304,7 @@
       "sell_price": 41,
       "sell_price_text": "$0.41",
       "sell_listings": 24,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Ruby%20Pendant%20%28Arcana%29%20A"
     },
     "Ruby Pendant (Immortal) A": {
@@ -313,16 +313,16 @@
       "sell_price": 4,
       "sell_price_text": "$0.04",
       "sell_listings": 106,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Ruby%20Pendant%20%28Immortal%29%20A"
     },
     "Sapphire": {
       "name": "Sapphire",
       "hash_name": "Sapphire",
-      "sell_price": 116,
-      "sell_price_text": "$1.16",
-      "sell_listings": 98,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_price": 124,
+      "sell_price_text": "$1.24",
+      "sell_listings": 81,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Sapphire"
     },
     "Starlight Sapphire": {
@@ -331,7 +331,7 @@
       "sell_price": 1533,
       "sell_price_text": "$15.33",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Starlight%20Sapphire"
     },
     "Topaz": {
@@ -339,8 +339,8 @@
       "hash_name": "Topaz",
       "sell_price": 62,
       "sell_price_text": "$0.62",
-      "sell_listings": 246,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 202,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Topaz"
     },
     "Emerald": {
@@ -349,7 +349,7 @@
       "sell_price": 19613,
       "sell_price_text": "$196.13",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Emerald"
     },
     "Emerald Bracer (Beyond) A": {
@@ -358,7 +358,7 @@
       "sell_price": 3007,
       "sell_price_text": "$30.07",
       "sell_listings": 4,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Emerald%20Bracer%20%28Beyond%29%20A"
     },
     "Emerald Bracer (Arcana) A": {
@@ -367,7 +367,7 @@
       "sell_price": 238,
       "sell_price_text": "$2.38",
       "sell_listings": 16,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Emerald%20Bracer%20%28Arcana%29%20A"
     },
     "Emerald Earring (Beyond) A": {
@@ -376,7 +376,7 @@
       "sell_price": 7171,
       "sell_price_text": "$71.71",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Emerald%20Earring%20%28Beyond%29%20A"
     },
     "Emerald Earring (Legendary) A": {
@@ -385,7 +385,7 @@
       "sell_price": 2757,
       "sell_price_text": "$27.57",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Emerald%20Earring%20%28Legendary%29%20A"
     },
     "Amethyst": {
@@ -394,7 +394,7 @@
       "sell_price": 2777,
       "sell_price_text": "$27.77",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Amethyst"
     },
     "Celestial Pearl": {
@@ -403,7 +403,7 @@
       "sell_price": 4327,
       "sell_price_text": "$43.27",
       "sell_listings": 18,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Celestial%20Pearl"
     },
     "Black Pearl": {
@@ -412,7 +412,7 @@
       "sell_price": 1670,
       "sell_price_text": "$16.70",
       "sell_listings": 4,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Black%20Pearl"
     },
     "Pearl": {
@@ -421,7 +421,7 @@
       "sell_price": 1400,
       "sell_price_text": "$14.00",
       "sell_listings": 5,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Pearl"
     },
     "Turquoise": {
@@ -430,7 +430,7 @@
       "sell_price": 749,
       "sell_price_text": "$7.49",
       "sell_listings": 5,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Turquoise"
     },
     "Garnet": {
@@ -439,7 +439,7 @@
       "sell_price": 2224,
       "sell_price_text": "$22.24",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Garnet"
     },
     "Diamond": {
@@ -448,7 +448,7 @@
       "sell_price": 3066,
       "sell_price_text": "$30.66",
       "sell_listings": 3,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Diamond"
     },
     "Void Opal": {
@@ -456,8 +456,8 @@
       "hash_name": "Void Opal",
       "sell_price": 909,
       "sell_price_text": "$9.09",
-      "sell_listings": 61,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 58,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Void%20Opal"
     },
     "Opal": {
@@ -466,7 +466,7 @@
       "sell_price": 4038,
       "sell_price_text": "$40.38",
       "sell_listings": 13,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Opal"
     },
     "Lapis Lazuli": {
@@ -475,7 +475,7 @@
       "sell_price": 6575,
       "sell_price_text": "$65.75",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Lapis%20Lazuli"
     },
     "Goblin Hide": {
@@ -483,8 +483,8 @@
       "hash_name": "Goblin Hide",
       "sell_price": 3,
       "sell_price_text": "$0.03",
-      "sell_listings": 69409,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 65535,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Goblin%20Hide"
     },
     "Skeleton Bone": {
@@ -492,8 +492,8 @@
       "hash_name": "Skeleton Bone",
       "sell_price": 3,
       "sell_price_text": "$0.03",
-      "sell_listings": 94090,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 93725,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Skeleton%20Bone"
     },
     "Slime Jelly": {
@@ -501,8 +501,8 @@
       "hash_name": "Slime Jelly",
       "sell_price": 3,
       "sell_price_text": "$0.03",
-      "sell_listings": 92901,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 91892,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Slime%20Jelly"
     },
     "Wolf Fang": {
@@ -510,8 +510,8 @@
       "hash_name": "Wolf Fang",
       "sell_price": 4,
       "sell_price_text": "$0.04",
-      "sell_listings": 21539,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 20129,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Wolf%20Fang"
     },
     "Spider Silk": {
@@ -520,16 +520,16 @@
       "sell_price": 669,
       "sell_price_text": "$6.69",
       "sell_listings": 3,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Spider%20Silk"
     },
     "Poisonous Herb": {
       "name": "Poisonous Herb",
       "hash_name": "Poisonous Herb",
-      "sell_price": 5,
-      "sell_price_text": "$0.05",
-      "sell_listings": 10039,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_price": 6,
+      "sell_price_text": "$0.06",
+      "sell_listings": 9435,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Poisonous%20Herb"
     },
     "Healing Herb": {
@@ -537,8 +537,8 @@
       "hash_name": "Healing Herb",
       "sell_price": 4,
       "sell_price_text": "$0.04",
-      "sell_listings": 21228,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 20469,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Healing%20Herb"
     },
     "Bat Wing Membrane": {
@@ -547,7 +547,7 @@
       "sell_price": 554,
       "sell_price_text": "$5.54",
       "sell_listings": 3,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Bat%20Wing%20Membrane"
     },
     "Ogre Blood": {
@@ -556,7 +556,7 @@
       "sell_price": 337,
       "sell_price_text": "$3.37",
       "sell_listings": 39,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Ogre%20Blood"
     },
     "Mushroom Spore": {
@@ -565,7 +565,7 @@
       "sell_price": 196,
       "sell_price_text": "$1.96",
       "sell_listings": 12,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Mushroom%20Spore"
     },
     "Ancient Tree Sap": {
@@ -574,7 +574,7 @@
       "sell_price": 203,
       "sell_price_text": "$2.03",
       "sell_listings": 13,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Ancient%20Tree%20Sap"
     },
     "Harpy Feather": {
@@ -583,7 +583,7 @@
       "sell_price": 1467,
       "sell_price_text": "$14.67",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Harpy%20Feather"
     },
     "Basilisk Scale": {
@@ -592,7 +592,7 @@
       "sell_price": 9258,
       "sell_price_text": "$92.58",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Basilisk%20Scale"
     },
     "Wyvern Claw": {
@@ -601,7 +601,7 @@
       "sell_price": 717,
       "sell_price_text": "$7.17",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Wyvern%20Claw"
     },
     "Dice": {
@@ -610,16 +610,16 @@
       "sell_price": 3585,
       "sell_price_text": "$35.85",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dice"
     },
     "Griffin Beak": {
       "name": "Griffin Beak",
       "hash_name": "Griffin Beak",
-      "sell_price": 403,
-      "sell_price_text": "$4.03",
-      "sell_listings": 16,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_price": 406,
+      "sell_price_text": "$4.06",
+      "sell_listings": 11,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Griffin%20Beak"
     },
     "Dragon Bile": {
@@ -628,7 +628,7 @@
       "sell_price": 2362,
       "sell_price_text": "$23.62",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dragon%20Bile"
     },
     "Void Ichor": {
@@ -637,7 +637,7 @@
       "sell_price": 1761,
       "sell_price_text": "$17.61",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Void%20Ichor"
     },
     "Abyssal Mucus": {
@@ -646,7 +646,7 @@
       "sell_price": 6681,
       "sell_price_text": "$66.81",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Abyssal%20Mucus"
     },
     "Scroll of Beyond Inscription": {
@@ -655,7 +655,7 @@
       "sell_price": 348,
       "sell_price_text": "$3.48",
       "sell_listings": 17,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Scroll%20of%20Beyond%20Inscription"
     },
     "Scroll of Immortal Inscription": {
@@ -664,7 +664,7 @@
       "sell_price": 1995,
       "sell_price_text": "$19.95",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Scroll%20of%20Immortal%20Inscription"
     },
     "Scroll of Arcana Inscription": {
@@ -673,7 +673,7 @@
       "sell_price": 2370,
       "sell_price_text": "$23.70",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Scroll%20of%20Arcana%20Inscription"
     },
     "Scroll of Common Inscription": {
@@ -682,16 +682,16 @@
       "sell_price": 2224,
       "sell_price_text": "$22.24",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Scroll%20of%20Common%20Inscription"
     },
     "Soulstone - Normal": {
       "name": "Soulstone - Normal",
       "hash_name": "Soulstone - Normal",
-      "sell_price": 575,
-      "sell_price_text": "$5.75",
-      "sell_listings": 494,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_price": 580,
+      "sell_price_text": "$5.80",
+      "sell_listings": 480,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Soulstone%20-%20Normal"
     },
     "Soulstone - Nightmare": {
@@ -699,8 +699,8 @@
       "hash_name": "Soulstone - Nightmare",
       "sell_price": 2258,
       "sell_price_text": "$22.58",
-      "sell_listings": 5,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 3,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Soulstone%20-%20Nightmare"
     },
     "Bastard Sword (Legendary) A": {
@@ -709,7 +709,7 @@
       "sell_price": 3387,
       "sell_price_text": "$33.87",
       "sell_listings": 3,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Bastard%20Sword%20%28Legendary%29%20A"
     },
     "Bastard Sword (Immortal) A": {
@@ -718,7 +718,7 @@
       "sell_price": 11500,
       "sell_price_text": "$115.00",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Bastard%20Sword%20%28Immortal%29%20A"
     },
     "Great Sword (Legendary) A": {
@@ -727,7 +727,7 @@
       "sell_price": 8000,
       "sell_price_text": "$80.00",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Great%20Sword%20%28Legendary%29%20A"
     },
     "Vengeance Sword (Immortal) A": {
@@ -736,7 +736,7 @@
       "sell_price": 4523,
       "sell_price_text": "$45.23",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Vengeance%20Sword%20%28Immortal%29%20A"
     },
     "Vengeance Sword (Beyond) A": {
@@ -745,7 +745,7 @@
       "sell_price": 26,
       "sell_price_text": "$0.26",
       "sell_listings": 64,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Vengeance%20Sword%20%28Beyond%29%20A"
     },
     "Dimensional Sword (Beyond) A": {
@@ -754,7 +754,7 @@
       "sell_price": 18585,
       "sell_price_text": "$185.85",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dimensional%20Sword%20%28Beyond%29%20A"
     },
     "Long Bow (Legendary) A": {
@@ -763,7 +763,7 @@
       "sell_price": 7562,
       "sell_price_text": "$75.62",
       "sell_listings": 3,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Long%20Bow%20%28Legendary%29%20A"
     },
     "Long Bow (Immortal) A": {
@@ -772,7 +772,7 @@
       "sell_price": 8436,
       "sell_price_text": "$84.36",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Long%20Bow%20%28Immortal%29%20A"
     },
     "Composite Bow (Legendary) A": {
@@ -781,7 +781,7 @@
       "sell_price": 7171,
       "sell_price_text": "$71.71",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Composite%20Bow%20%28Legendary%29%20A"
     },
     "War Bow (Legendary) A": {
@@ -790,7 +790,7 @@
       "sell_price": 19633,
       "sell_price_text": "$196.33",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/War%20Bow%20%28Legendary%29%20A"
     },
     "Devout Scepter (Legendary) A": {
@@ -799,7 +799,7 @@
       "sell_price": 7171,
       "sell_price_text": "$71.71",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Devout%20Scepter%20%28Legendary%29%20A"
     },
     "Dimensional Scepter (Celestial) A": {
@@ -808,7 +808,7 @@
       "sell_price": 15586,
       "sell_price_text": "$155.86",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dimensional%20Scepter%20%28Celestial%29%20A"
     },
     "Iron Scepter (Legendary) A": {
@@ -817,7 +817,7 @@
       "sell_price": 71718,
       "sell_price_text": "$717.18",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Iron%20Scepter%20%28Legendary%29%20A"
     },
     "Limitless Scepter (Celestial) A": {
@@ -826,7 +826,7 @@
       "sell_price": 9562,
       "sell_price_text": "$95.62",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Limitless%20Scepter%20%28Celestial%29%20A"
     },
     "Dimensional Scepter (Beyond) A": {
@@ -835,7 +835,7 @@
       "sell_price": 0,
       "sell_price_text": "$0.00",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dimensional%20Scepter%20%28Beyond%29%20A"
     },
     "Steel Scepter (Legendary) A": {
@@ -844,7 +844,7 @@
       "sell_price": 7562,
       "sell_price_text": "$75.62",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Steel%20Scepter%20%28Legendary%29%20A"
     },
     "Blessed Scepter (Legendary) A": {
@@ -853,7 +853,7 @@
       "sell_price": 7171,
       "sell_price_text": "$71.71",
       "sell_listings": 4,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Blessed%20Scepter%20%28Legendary%29%20A"
     },
     "Limitless Crossbow (Beyond) A": {
@@ -862,7 +862,7 @@
       "sell_price": 770,
       "sell_price_text": "$7.70",
       "sell_listings": 12,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Limitless%20Crossbow%20%28Beyond%29%20A"
     },
     "Limitless Crossbow (Arcana) A": {
@@ -870,8 +870,8 @@
       "hash_name": "Limitless Crossbow (Arcana) A",
       "sell_price": 5,
       "sell_price_text": "$0.05",
-      "sell_listings": 64,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 63,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Limitless%20Crossbow%20%28Arcana%29%20A"
     },
     "Dimensional Shield (Celestial) A": {
@@ -880,7 +880,7 @@
       "sell_price": 2224,
       "sell_price_text": "$22.24",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dimensional%20Shield%20%28Celestial%29%20A"
     },
     "Dimensional Arrow (Celestial) A": {
@@ -889,7 +889,7 @@
       "sell_price": 11021,
       "sell_price_text": "$110.21",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dimensional%20Arrow%20%28Celestial%29%20A"
     },
     "Fate Arrow (Beyond) A": {
@@ -898,7 +898,7 @@
       "sell_price": 0,
       "sell_price_text": "$0.00",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Fate%20Arrow%20%28Beyond%29%20A"
     },
     "Beast Bolt (Arcana) A": {
@@ -907,7 +907,7 @@
       "sell_price": 405,
       "sell_price_text": "$4.05",
       "sell_listings": 13,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Beast%20Bolt%20%28Arcana%29%20A"
     },
     "Fear Bolt (Immortal) A": {
@@ -916,7 +916,7 @@
       "sell_price": 187,
       "sell_price_text": "$1.87",
       "sell_listings": 9,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Fear%20Bolt%20%28Immortal%29%20A"
     },
     "Barbed Bolt (Arcana) A": {
@@ -925,7 +925,7 @@
       "sell_price": 0,
       "sell_price_text": "$0.00",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Barbed%20Bolt%20%28Arcana%29%20A"
     },
     "Warrior's Tome (Celestial) A": {
@@ -934,7 +934,7 @@
       "sell_price": 11123,
       "sell_price_text": "$111.23",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Warrior%27s%20Tome%20%28Celestial%29%20A"
     },
     "Warrior's Tome (Divine) A": {
@@ -943,7 +943,7 @@
       "sell_price": 22260,
       "sell_price_text": "$222.60",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Warrior%27s%20Tome%20%28Divine%29%20A"
     },
     "Dimensional Tome (Celestial) A": {
@@ -952,7 +952,7 @@
       "sell_price": 14343,
       "sell_price_text": "$143.43",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dimensional%20Tome%20%28Celestial%29%20A"
     },
     "Dimensional Tome (Arcana) A": {
@@ -961,7 +961,7 @@
       "sell_price": 7425,
       "sell_price_text": "$74.25",
       "sell_listings": 8,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dimensional%20Tome%20%28Arcana%29%20A"
     },
     "Fate Tome (Beyond) A": {
@@ -969,8 +969,8 @@
       "hash_name": "Fate Tome (Beyond) A",
       "sell_price": 717,
       "sell_price_text": "$7.17",
-      "sell_listings": 17,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 16,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Fate%20Tome%20%28Beyond%29%20A"
     },
     "War Tome (Beyond) A": {
@@ -978,8 +978,8 @@
       "hash_name": "War Tome (Beyond) A",
       "sell_price": 162,
       "sell_price_text": "$1.62",
-      "sell_listings": 14,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 13,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/War%20Tome%20%28Beyond%29%20A"
     },
     "Prayer Tome (Legendary) A": {
@@ -988,7 +988,7 @@
       "sell_price": 17561,
       "sell_price_text": "$175.61",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Prayer%20Tome%20%28Legendary%29%20A"
     },
     "Knight's Tome (Legendary) A": {
@@ -997,7 +997,7 @@
       "sell_price": 19633,
       "sell_price_text": "$196.33",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Knight%27s%20Tome%20%28Legendary%29%20A"
     },
     "Short Hatchet (Legendary) A": {
@@ -1006,7 +1006,7 @@
       "sell_price": 3500,
       "sell_price_text": "$35.00",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Short%20Hatchet%20%28Legendary%29%20A"
     },
     "Limitless Hatchet (Arcana) A": {
@@ -1015,7 +1015,7 @@
       "sell_price": 210,
       "sell_price_text": "$2.10",
       "sell_listings": 27,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Limitless%20Hatchet%20%28Arcana%29%20A"
     },
     "Dimensional Helmet (Beyond) A": {
@@ -1024,7 +1024,7 @@
       "sell_price": 6344,
       "sell_price_text": "$63.44",
       "sell_listings": 4,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dimensional%20Helmet%20%28Beyond%29%20A"
     },
     "Dimensional Helmet (Arcana) A": {
@@ -1032,8 +1032,8 @@
       "hash_name": "Dimensional Helmet (Arcana) A",
       "sell_price": 3,
       "sell_price_text": "$0.03",
-      "sell_listings": 521,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 520,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dimensional%20Helmet%20%28Arcana%29%20A"
     },
     "Iron Plate (Legendary) A": {
@@ -1042,7 +1042,7 @@
       "sell_price": 62362,
       "sell_price_text": "$623.62",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Iron%20Plate%20%28Legendary%29%20A"
     },
     "Dimensional Armor (Divine) A": {
@@ -1051,7 +1051,7 @@
       "sell_price": 22154,
       "sell_price_text": "$221.54",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dimensional%20Armor%20%28Divine%29%20A"
     },
     "Dimensional Armor (Celestial) A": {
@@ -1069,7 +1069,7 @@
       "sell_price": 0,
       "sell_price_text": "$0.00",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dimensional%20Armor%20%28Beyond%29%20A"
     },
     "Knight Gloves (Legendary) A": {
@@ -1078,7 +1078,7 @@
       "sell_price": 10537,
       "sell_price_text": "$105.37",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Knight%20Gloves%20%28Legendary%29%20A"
     },
     "Iron Boots (Legendary) A": {
@@ -1087,7 +1087,7 @@
       "sell_price": 19613,
       "sell_price_text": "$196.13",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Iron%20Boots%20%28Legendary%29%20A"
     },
     "Knight Boots (Legendary) A": {
@@ -1096,7 +1096,7 @@
       "sell_price": 19633,
       "sell_price_text": "$196.33",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Knight%20Boots%20%28Legendary%29%20A"
     },
     "Dimensional Boots (Legendary) A": {
@@ -1105,7 +1105,7 @@
       "sell_price": 5481,
       "sell_price_text": "$54.81",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Dimensional%20Boots%20%28Legendary%29%20A"
     },
     "Eclipse Amulet (Immortal) A": {
@@ -1114,7 +1114,7 @@
       "sell_price": 3618,
       "sell_price_text": "$36.18",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Eclipse%20Amulet%20%28Immortal%29%20A"
     },
     "Copper Amulet (Immortal) A": {
@@ -1123,7 +1123,7 @@
       "sell_price": 4,
       "sell_price_text": "$0.04",
       "sell_listings": 27,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Copper%20Amulet%20%28Immortal%29%20A"
     },
     "Gold Amulet (Arcana) A": {
@@ -1132,7 +1132,7 @@
       "sell_price": 0,
       "sell_price_text": "$0.00",
       "sell_listings": 1,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Gold%20Amulet%20%28Arcana%29%20A"
     },
     "Eclipse Amulet (Arcana) A": {
@@ -1141,7 +1141,7 @@
       "sell_price": 450,
       "sell_price_text": "$4.50",
       "sell_listings": 16,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Eclipse%20Amulet%20%28Arcana%29%20A"
     },
     "Amber Ring (Arcana) A": {
@@ -1150,7 +1150,7 @@
       "sell_price": 61,
       "sell_price_text": "$0.61",
       "sell_listings": 49,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Amber%20Ring%20%28Arcana%29%20A"
     },
     "Ethereal Earring (Legendary) A": {
@@ -1159,7 +1159,7 @@
       "sell_price": 5,
       "sell_price_text": "$0.05",
       "sell_listings": 33,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Ethereal%20Earring%20%28Legendary%29%20A"
     },
     "Ethereal Earring (Arcana) A": {
@@ -1168,7 +1168,7 @@
       "sell_price": 466,
       "sell_price_text": "$4.66",
       "sell_listings": 5,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Ethereal%20Earring%20%28Arcana%29%20A"
     },
     "Celestial Earring (Arcana) A": {
@@ -1177,7 +1177,7 @@
       "sell_price": 254,
       "sell_price_text": "$2.54",
       "sell_listings": 19,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Celestial%20Earring%20%28Arcana%29%20A"
     },
     "Tiger Eye Earring (Arcana) A": {
@@ -1185,8 +1185,8 @@
       "hash_name": "Tiger Eye Earring (Arcana) A",
       "sell_price": 5,
       "sell_price_text": "$0.05",
-      "sell_listings": 40,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 39,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Tiger%20Eye%20Earring%20%28Arcana%29%20A"
     },
     "Eclipse Bracer (Beyond) A": {
@@ -1195,7 +1195,7 @@
       "sell_price": 3363,
       "sell_price_text": "$33.63",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Eclipse%20Bracer%20%28Beyond%29%20A"
     },
     "Eclipse Bracer (Arcana) A": {
@@ -1203,8 +1203,8 @@
       "hash_name": "Eclipse Bracer (Arcana) A",
       "sell_price": 168,
       "sell_price_text": "$1.68",
-      "sell_listings": 23,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "sell_listings": 22,
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Eclipse%20Bracer%20%28Arcana%29%20A"
     },
     "Ethereal Bracer (Arcana) A": {
@@ -1213,7 +1213,7 @@
       "sell_price": 358,
       "sell_price_text": "$3.58",
       "sell_listings": 6,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Ethereal%20Bracer%20%28Arcana%29%20A"
     },
     "Soulstone - Hell": {
@@ -1222,7 +1222,7 @@
       "sell_price": 7141,
       "sell_price_text": "$71.41",
       "sell_listings": 2,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Soulstone%20-%20Hell"
     },
     "Soulstone - Torment": {
@@ -1231,7 +1231,7 @@
       "sell_price": 3991,
       "sell_price_text": "$39.91",
       "sell_listings": 3,
-      "last_updated": "2026-06-15T00:00:16.400183+00:00",
+      "last_updated": "2026-06-15T04:01:35.796049+00:00",
       "market_url": "https://steamcommunity.com/market/listings/3678970/Soulstone%20-%20Torment"
     }
   },
@@ -1333,6 +1333,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 2212,
         "l": 6
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 2212,
+        "l": 6
       }
     ],
     "Crystal Quartz": [
@@ -1383,6 +1388,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 733,
+        "l": 5
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 733,
         "l": 5
       }
@@ -1437,6 +1447,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 186,
         "l": 24
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 186,
+        "l": 24
       }
     ],
     "Rune Sword (Legendary) A": [
@@ -1487,6 +1502,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 22264,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 22264,
         "l": 1
       }
@@ -1593,6 +1613,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 405,
         "l": 6
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 451,
+        "l": 5
       }
     ],
     "Amber Gem": [
@@ -1645,6 +1670,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 5,
         "l": 42537
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 5,
+        "l": 40380
       }
     ],
     "Empire 50th Anniversary Coin": [
@@ -1695,6 +1725,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 0,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 0,
         "l": 1
       }
@@ -1803,6 +1838,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 4,
         "l": 305278
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 4,
+        "l": 291156
       }
     ],
     "Jade Stone": [
@@ -1815,6 +1855,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 4,
         "l": 97983
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 4,
+        "l": 95430
       }
     ],
     "Stone": [
@@ -1825,6 +1870,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 903,
+        "l": 11
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 903,
         "l": 11
       }
@@ -1839,6 +1889,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 5,
         "l": 122991
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 5,
+        "l": 112731
       }
     ],
     "Leather Hatchet (Immortal) A": [
@@ -1849,6 +1904,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 4017,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 4017,
         "l": 1
       }
@@ -1863,6 +1923,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 7171,
         "l": 5
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 7171,
+        "l": 5
       }
     ],
     "Bronze Ingot": [
@@ -1873,6 +1938,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 2224,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 2224,
         "l": 1
       }
@@ -1887,6 +1957,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 71415,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 71415,
+        "l": 1
       }
     ],
     "Silver Ingot": [
@@ -1897,6 +1972,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 2224,
+        "l": 7
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 2224,
         "l": 7
       }
@@ -1911,6 +1991,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 1687,
         "l": 3
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 1687,
+        "l": 3
       }
     ],
     "Stardust Ingot": [
@@ -1921,6 +2006,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 8319,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 8319,
         "l": 1
       }
@@ -1935,6 +2025,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 2224,
         "l": 3
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 2224,
+        "l": 3
       }
     ],
     "Bloodstone": [
@@ -1947,6 +2042,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 491,
         "l": 14
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 491,
+        "l": 14
       }
     ],
     "Thunderstone": [
@@ -1957,6 +2057,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 1184,
+        "l": 3
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 1184,
         "l": 3
       }
@@ -1985,6 +2090,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 580,
         "l": 11
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 632,
+        "l": 8
       }
     ],
     "Minor Sapphire": [
@@ -1997,6 +2107,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 4,
         "l": 165186
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 4,
+        "l": 164084
       }
     ],
     "Minor Topaz": [
@@ -2009,6 +2124,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 10,
         "l": 14425
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 10,
+        "l": 13582
       }
     ],
     "Minor Emerald": [
@@ -2019,6 +2139,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 2224,
+        "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 2224,
         "l": 2
       }
@@ -2033,6 +2158,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 4,
         "l": 111886
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 4,
+        "l": 109135
       }
     ],
     "Coral Piece": [
@@ -2045,6 +2175,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 31,
         "l": 227
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 116,
+        "l": 53
       }
     ],
     "Ruby Pendant (Arcana) A": [
@@ -2055,6 +2190,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 41,
+        "l": 24
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 41,
         "l": 24
       }
@@ -2069,6 +2209,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 4,
         "l": 106
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 4,
+        "l": 106
       }
     ],
     "Sapphire": [
@@ -2081,6 +2226,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 116,
         "l": 98
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 124,
+        "l": 81
       }
     ],
     "Starlight Sapphire": [
@@ -2091,6 +2241,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 1533,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 1533,
         "l": 1
       }
@@ -2105,6 +2260,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 62,
         "l": 246
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 62,
+        "l": 202
       }
     ],
     "Emerald": [
@@ -2115,6 +2275,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 19613,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 19613,
         "l": 1
       }
@@ -2129,6 +2294,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 3007,
         "l": 4
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 3007,
+        "l": 4
       }
     ],
     "Emerald Bracer (Arcana) A": [
@@ -2139,6 +2309,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 238,
+        "l": 16
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 238,
         "l": 16
       }
@@ -2153,6 +2328,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 7171,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 7171,
+        "l": 1
       }
     ],
     "Emerald Earring (Legendary) A": [
@@ -2163,6 +2343,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 2757,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 2757,
         "l": 1
       }
@@ -2177,6 +2362,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 2777,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 2777,
+        "l": 1
       }
     ],
     "Celestial Pearl": [
@@ -2187,6 +2377,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 4327,
+        "l": 18
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 4327,
         "l": 18
       }
@@ -2201,6 +2396,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 1670,
         "l": 4
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 1670,
+        "l": 4
       }
     ],
     "Pearl": [
@@ -2211,6 +2411,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 1400,
+        "l": 5
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 1400,
         "l": 5
       }
@@ -2225,6 +2430,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 749,
         "l": 5
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 749,
+        "l": 5
       }
     ],
     "Garnet": [
@@ -2235,6 +2445,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 2224,
+        "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 2224,
         "l": 2
       }
@@ -2249,6 +2464,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 3066,
         "l": 3
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 3066,
+        "l": 3
       }
     ],
     "Void Opal": [
@@ -2261,6 +2481,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 909,
         "l": 61
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 909,
+        "l": 58
       }
     ],
     "Opal": [
@@ -2271,6 +2496,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 4038,
+        "l": 13
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 4038,
         "l": 13
       }
@@ -2285,6 +2515,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 6575,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 6575,
+        "l": 1
       }
     ],
     "Goblin Hide": [
@@ -2297,6 +2532,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 3,
         "l": 69409
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 3,
+        "l": 65535
       }
     ],
     "Skeleton Bone": [
@@ -2309,6 +2549,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 3,
         "l": 94090
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 3,
+        "l": 93725
       }
     ],
     "Slime Jelly": [
@@ -2321,6 +2566,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 3,
         "l": 92901
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 3,
+        "l": 91892
       }
     ],
     "Wolf Fang": [
@@ -2333,6 +2583,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 4,
         "l": 21539
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 4,
+        "l": 20129
       }
     ],
     "Spider Silk": [
@@ -2343,6 +2598,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 669,
+        "l": 3
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 669,
         "l": 3
       }
@@ -2357,6 +2617,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 5,
         "l": 10039
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 6,
+        "l": 9435
       }
     ],
     "Healing Herb": [
@@ -2369,6 +2634,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 4,
         "l": 21228
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 4,
+        "l": 20469
       }
     ],
     "Bat Wing Membrane": [
@@ -2379,6 +2649,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 554,
+        "l": 3
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 554,
         "l": 3
       }
@@ -2393,6 +2668,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 337,
         "l": 39
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 337,
+        "l": 39
       }
     ],
     "Mushroom Spore": [
@@ -2403,6 +2683,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 196,
+        "l": 12
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 196,
         "l": 12
       }
@@ -2417,6 +2702,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 203,
         "l": 13
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 203,
+        "l": 13
       }
     ],
     "Harpy Feather": [
@@ -2427,6 +2717,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 1467,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 1467,
         "l": 1
       }
@@ -2441,6 +2736,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 9258,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 9258,
+        "l": 1
       }
     ],
     "Wyvern Claw": [
@@ -2451,6 +2751,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 717,
+        "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 717,
         "l": 2
       }
@@ -2465,6 +2770,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 3585,
         "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 3585,
+        "l": 2
       }
     ],
     "Griffin Beak": [
@@ -2477,6 +2787,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 403,
         "l": 16
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 406,
+        "l": 11
       }
     ],
     "Dragon Bile": [
@@ -2487,6 +2802,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 2362,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 2362,
         "l": 1
       }
@@ -2501,6 +2821,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 1761,
         "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 1761,
+        "l": 2
       }
     ],
     "Abyssal Mucus": [
@@ -2511,6 +2836,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 6681,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 6681,
         "l": 1
       }
@@ -2525,6 +2855,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 348,
         "l": 17
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 348,
+        "l": 17
       }
     ],
     "Scroll of Immortal Inscription": [
@@ -2535,6 +2870,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 1995,
+        "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 1995,
         "l": 2
       }
@@ -2549,6 +2889,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 2370,
         "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 2370,
+        "l": 2
       }
     ],
     "Scroll of Common Inscription": [
@@ -2559,6 +2904,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 2224,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 2224,
         "l": 1
       }
@@ -2573,6 +2923,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 575,
         "l": 494
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 580,
+        "l": 480
       }
     ],
     "Soulstone - Nightmare": [
@@ -2585,6 +2940,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 2258,
         "l": 5
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 2258,
+        "l": 3
       }
     ],
     "Bastard Sword (Legendary) A": [
@@ -2595,6 +2955,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 3387,
+        "l": 3
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 3387,
         "l": 3
       }
@@ -2609,6 +2974,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 11500,
         "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 11500,
+        "l": 2
       }
     ],
     "Great Sword (Legendary) A": [
@@ -2619,6 +2989,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 8000,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 8000,
         "l": 1
       }
@@ -2633,6 +3008,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 4523,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 4523,
+        "l": 1
       }
     ],
     "Vengeance Sword (Beyond) A": [
@@ -2643,6 +3023,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 26,
+        "l": 64
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 26,
         "l": 64
       }
@@ -2657,6 +3042,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 18585,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 18585,
+        "l": 1
       }
     ],
     "Long Bow (Legendary) A": [
@@ -2667,6 +3057,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 7562,
+        "l": 3
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 7562,
         "l": 3
       }
@@ -2681,6 +3076,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 8436,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 8436,
+        "l": 1
       }
     ],
     "Composite Bow (Legendary) A": [
@@ -2691,6 +3091,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 7171,
+        "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 7171,
         "l": 2
       }
@@ -2705,6 +3110,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 19633,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 19633,
+        "l": 1
       }
     ],
     "Devout Scepter (Legendary) A": [
@@ -2715,6 +3125,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 7171,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 7171,
         "l": 1
       }
@@ -2729,6 +3144,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 15586,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 15586,
+        "l": 1
       }
     ],
     "Iron Scepter (Legendary) A": [
@@ -2739,6 +3159,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 71718,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 71718,
         "l": 1
       }
@@ -2753,6 +3178,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 9562,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 9562,
+        "l": 1
       }
     ],
     "Dimensional Scepter (Beyond) A": [
@@ -2763,6 +3193,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 0,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 0,
         "l": 1
       }
@@ -2777,6 +3212,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 7562,
         "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 7562,
+        "l": 2
       }
     ],
     "Blessed Scepter (Legendary) A": [
@@ -2787,6 +3227,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 7171,
+        "l": 4
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 7171,
         "l": 4
       }
@@ -2801,6 +3246,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 770,
         "l": 12
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 770,
+        "l": 12
       }
     ],
     "Limitless Crossbow (Arcana) A": [
@@ -2813,6 +3263,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 5,
         "l": 64
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 5,
+        "l": 63
       }
     ],
     "Dimensional Shield (Celestial) A": [
@@ -2823,6 +3278,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 2224,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 2224,
         "l": 1
       }
@@ -2837,6 +3297,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 11021,
         "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 11021,
+        "l": 2
       }
     ],
     "Fate Arrow (Beyond) A": [
@@ -2847,6 +3312,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 0,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 0,
         "l": 1
       }
@@ -2861,6 +3331,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 405,
         "l": 13
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 405,
+        "l": 13
       }
     ],
     "Fear Bolt (Immortal) A": [
@@ -2871,6 +3346,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 187,
+        "l": 9
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 187,
         "l": 9
       }
@@ -2885,6 +3365,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 0,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 0,
+        "l": 1
       }
     ],
     "Warrior's Tome (Celestial) A": [
@@ -2895,6 +3380,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 11123,
+        "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 11123,
         "l": 2
       }
@@ -2909,6 +3399,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 22260,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 22260,
+        "l": 1
       }
     ],
     "Dimensional Tome (Celestial) A": [
@@ -2919,6 +3414,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 14343,
+        "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 14343,
         "l": 2
       }
@@ -2933,6 +3433,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 7425,
         "l": 8
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 7425,
+        "l": 8
       }
     ],
     "Fate Tome (Beyond) A": [
@@ -2945,6 +3450,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 717,
         "l": 17
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 717,
+        "l": 16
       }
     ],
     "War Tome (Beyond) A": [
@@ -2957,6 +3467,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 162,
         "l": 14
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 162,
+        "l": 13
       }
     ],
     "Prayer Tome (Legendary) A": [
@@ -2967,6 +3482,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 17561,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 17561,
         "l": 1
       }
@@ -2981,6 +3501,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 19633,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 19633,
+        "l": 1
       }
     ],
     "Short Hatchet (Legendary) A": [
@@ -2991,6 +3516,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 3500,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 3500,
         "l": 1
       }
@@ -3005,6 +3535,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 210,
         "l": 27
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 210,
+        "l": 27
       }
     ],
     "Dimensional Helmet (Beyond) A": [
@@ -3015,6 +3550,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 6344,
+        "l": 4
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 6344,
         "l": 4
       }
@@ -3029,6 +3569,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 3,
         "l": 521
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 3,
+        "l": 520
       }
     ],
     "Iron Plate (Legendary) A": [
@@ -3041,6 +3586,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 62362,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 62362,
+        "l": 1
       }
     ],
     "Dimensional Armor (Divine) A": [
@@ -3051,6 +3601,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 22154,
+        "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 22154,
         "l": 2
       }
@@ -3077,6 +3632,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 0,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 0,
+        "l": 1
       }
     ],
     "Knight Gloves (Legendary) A": [
@@ -3087,6 +3647,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 10537,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 10537,
         "l": 1
       }
@@ -3101,6 +3666,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 19613,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 19613,
+        "l": 1
       }
     ],
     "Knight Boots (Legendary) A": [
@@ -3111,6 +3681,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 19633,
+        "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 19633,
         "l": 2
       }
@@ -3125,6 +3700,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 5481,
         "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 5481,
+        "l": 1
       }
     ],
     "Eclipse Amulet (Immortal) A": [
@@ -3135,6 +3715,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 3618,
+        "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 3618,
         "l": 2
       }
@@ -3149,6 +3734,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 4,
         "l": 27
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 4,
+        "l": 27
       }
     ],
     "Gold Amulet (Arcana) A": [
@@ -3159,6 +3749,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 0,
+        "l": 1
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 0,
         "l": 1
       }
@@ -3173,6 +3768,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 450,
         "l": 16
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 450,
+        "l": 16
       }
     ],
     "Amber Ring (Arcana) A": [
@@ -3183,6 +3783,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 61,
+        "l": 49
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 61,
         "l": 49
       }
@@ -3197,6 +3802,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 5,
         "l": 33
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 5,
+        "l": 33
       }
     ],
     "Ethereal Earring (Arcana) A": [
@@ -3207,6 +3817,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 466,
+        "l": 5
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 466,
         "l": 5
       }
@@ -3221,6 +3836,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 254,
         "l": 19
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 254,
+        "l": 19
       }
     ],
     "Tiger Eye Earring (Arcana) A": [
@@ -3233,6 +3853,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 5,
         "l": 40
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 5,
+        "l": 39
       }
     ],
     "Eclipse Bracer (Beyond) A": [
@@ -3243,6 +3868,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 3363,
+        "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 3363,
         "l": 2
       }
@@ -3257,6 +3887,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 168,
         "l": 23
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 168,
+        "l": 22
       }
     ],
     "Ethereal Bracer (Arcana) A": [
@@ -3267,6 +3902,11 @@
       },
       {
         "t": "2026-06-15T00:00:00Z",
+        "p": 358,
+        "l": 6
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
         "p": 358,
         "l": 6
       }
@@ -3281,6 +3921,11 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 7141,
         "l": 2
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 7141,
+        "l": 2
       }
     ],
     "Soulstone - Torment": [
@@ -3293,11 +3938,16 @@
         "t": "2026-06-15T00:00:00Z",
         "p": 3991,
         "l": 3
+      },
+      {
+        "t": "2026-06-15T04:00:00Z",
+        "p": 3991,
+        "l": 3
       }
     ]
   },
-  "last_updated": "2026-06-15T00:00:16.400183+00:00",
-  "last_updated_jst": "2026-06-15 09:00 JST",
-  "fetch_count": 12,
+  "last_updated": "2026-06-15T04:01:35.796049+00:00",
+  "last_updated_jst": "2026-06-15 13:01 JST",
+  "fetch_count": 13,
   "total_items": 137
 }
